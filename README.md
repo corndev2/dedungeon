@@ -1,4 +1,4 @@
-# redungeon
+# dedungeon
 #Карточная казуальная мобильна игра
 #Godot Engine
 #ПрофIT
